@@ -170,7 +170,7 @@ The model performed better at identifying non-diabetic patients than diabetic pa
 
 ### Confusion Matrix
 
-![Confusion matrix](images/Confusion_matrix.png)
+![Confusion matrix](images/Confusion_Matrix.png)
 
 The confusion matrix shows the number of correctly and incorrectly classified diabetic and non-diabetic patients, providing insight into false positives and false negatives.
 
